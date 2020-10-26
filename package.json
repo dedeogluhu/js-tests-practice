@@ -1,0 +1,26 @@
+{
+  "name": "js-tests-practice",
+  "version": "1.0.0",
+  "description": "I'm learning/practising testing with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dedeogluhu/js-tests-practice.git"
+  },
+  "keywords": [
+    "js",
+    "test"
+  ],
+  "author": "dedeogluhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dedeogluhu/js-tests-practice/issues"
+  },
+  "homepage": "https://github.com/dedeogluhu/js-tests-practice",
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
