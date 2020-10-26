@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/dedeogluhu/js-tests-practice",
   "devDependencies": {
-    "jest": "^26.6.1"
-  }
+    "jest": "^25.5.4"
+  },
+  "dependencies": {}
 }
