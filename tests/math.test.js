@@ -36,12 +36,3 @@ test('Divides 4 / 1 to NOT equal to 2', () => {
     expect(mathFile.divide(4, 1)).not.toBe(2);
 })
 
-//Object
-test('Returns object', () => {
-    expect(mathFile.returnObject(4)).toEqual({ number: 4 });
-})
-
-//Array
-test('Returns array', () => {
-    expect(mathFile.returnArray(2, 3)).toEqual([2, 3]);
-})
