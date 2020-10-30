@@ -8,7 +8,7 @@ I'm learning/practising testing with javascript using jest
 yarn install
 ```
 
-## Test
+## Start Testing
 ```
 yarn test
 ```
