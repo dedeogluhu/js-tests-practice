@@ -19,6 +19,12 @@ const functions = {
     },
     strAdd(firstString, secondString) {
         return firstString + " " + secondString;
+    },
+    strTrim(string) {
+        return string.trim();
+    },
+    strCharAt(string, index) {
+        return string.charAt(index);
     }
 }
 
