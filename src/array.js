@@ -20,6 +20,9 @@ const functions = {
     },
     arrLength(array) {
         return array.length;
+    },
+    arrIndexOf(array, element) {
+        return array.indexOf(element);
     }
 }
 

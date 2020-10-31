@@ -24,3 +24,7 @@ test('Should change an element of an array', () => {
 test('Should give the length of an array', () => {
     expect(arrayFile.arrLength(["Banana", "Orange", "Apple", "Mango"])).toBe(4);
 })
+
+test('Should give the index of an element from an array', () => {
+    expect(arrayFile.arrIndexOf(["Banana", "Orange", "Apple", "Mango"], "Apple")).toBe(2);
+})
